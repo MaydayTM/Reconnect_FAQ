@@ -1,0 +1,286 @@
+{
+  "faq": [
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Lidmaatschappen",
+      "question": "Wat zijn de opties voor lidmaatschappen?",
+      "answer": "1 maand, 3 maanden, of 12 maanden."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Lidmaatschappen",
+      "question": "Wat zijn de prijzen voor volwassenen?",
+      "answer": "€70/maand (andere prijzen voor 3/12 maanden). Voor exacte prijzen, check de webshop op mmagym.be."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Lidmaatschappen",
+      "question": "Wat zijn de prijzen voor jeugd?",
+      "answer": "€55/maand (andere prijzen voor 3/12 maanden). Voor exacte prijzen, check de webshop op mmagym.be."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Lidmaatschappen",
+      "question": "Wat zijn de prijzen voor kinderen (-12 jaar)?",
+      "answer": "€40/maand (andere prijzen voor 3/12 maanden). Voor exacte prijzen, check de webshop op mmagym.be."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Minimumleeftijd",
+      "question": "Wat is de minimumleeftijd om te starten?",
+      "answer": "7 jaar. Voor toegang tot de open gym is de minimumleeftijd 16 jaar."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Proeflessen",
+      "question": "Wordt er een proefles aangeboden?",
+      "answer": "Ja, 1 gratis proefles."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Proeflessen",
+      "question": "Hoe boek ik een proefles?",
+      "answer": "Via de knop 'Boek een proefles' op mmagym.be."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Disciplines",
+      "question": "Welke disciplines bieden jullie aan?",
+      "answer": "MMA, Boksen (Engels/Olympisch), Thaiboksen, Braziliaanse Jiu-Jitsu (BJJ), Worstelen, Luta Livre."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Niveau",
+      "question": "Zijn de lessen geschikt voor beginners?",
+      "answer": "Ja, geschikt voor absolute beginners. Iedereen kan op zijn/haar eigen niveau instappen."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Lesrooster",
+      "question": "Waar vind ik het lesrooster?",
+      "answer": "Het volledige en actuele lessenrooster is te vinden op mmagym.be/kopie-van-lessenrooster."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat heb ik nodig voor een proefles?",
+      "answer": "Een short en T-shirt is voldoende. Bokshandschoenen zijn mogelijk niet beschikbaar om te lenen."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat is verplicht voor leden (alle vechtsporten)?",
+      "answer": "Mondstuk (bitje)."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat is verplicht voor heren?",
+      "answer": "Tok (kruisbeschermer)."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat is verplicht voor dames?",
+      "answer": "Borstbeschermer."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat is nodig voor Boksen/Thaiboksen?",
+      "answer": "Bokshandschoenen (12, 14 of 16 oz) en windels."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat is nodig voor Thaiboksen?",
+      "answer": "Scheenbeschermers."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Wat is nodig voor Grappling (BJJ, Worstelen, Luta Livre)?",
+      "answer": "Rashguard."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Benodigde Uitrusting",
+      "question": "Welk schoeisel is toegestaan?",
+      "answer": "Getraind op blote voeten of met specifieke indoor boks-/worstelschoenen."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Waar is de locatie?",
+      "answer": "De gym bevindt zich op de eerste verdieping."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Is er parking?",
+      "answer": "Ja, er is parking voorzien. De uitrijcode is 1967#."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Hoe krijg ik toegang?",
+      "answer": "Toegang tot de gym gebeurt normaal met een QR-code via de app. Bij een proefles zal een coach of medewerker de deur openen."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Wat zijn de hygiëne regels?",
+      "answer": "Loop nooit op blote voeten buiten de mat (bv. naar het toilet). Gebruik slippers."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Zijn er kleedkamers?",
+      "answer": "Ja, je kan je omkleden in de kleedkamers. Laat waardevolle spullen niet onbeheerd achter."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Wat als ik te laat kom?",
+      "answer": "Als je te laat bent, doe je 50 burpees aan de kant en wacht je op toestemming van de coach om deel te nemen."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Clubplanner App",
+      "question": "Wat is de Clubplanner App?",
+      "answer": "De app 'MyClubPlanner' is essentieel voor leden. Functies: Lesrooster bekijken, abonnementen/verzekering aanschaffen, toegang krijgen tot de gym."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Clubplanner App",
+      "question": "Waar download ik de app?",
+      "answer": "Apple App Store of Google Play Store voor Android."
+    },
+    {
+      "category": "Individuele Sporters",
+      "subcategory": "Clubplanner App",
+      "question": "Hoe log ik in?",
+      "answer": "Gebruik het e-mailadres en wachtwoord dat je hebt aangemaakt bij je registratie."
+    },
+    {
+      "category": "Bedrijven, Scholen en Huur",
+      "subcategory": "Scholen",
+      "question": "Wat bieden jullie aan voor scholen?",
+      "answer": "Initiatieles vanaf €75 of een tarief van €10 per persoon."
+    },
+    {
+      "category": "Bedrijven, Scholen en Huur",
+      "subcategory": "Ruimte Huren",
+      "question": "Wat is de prijs voor ruimte huren?",
+      "answer": "€30 per uur."
+    },
+    {
+      "category": "Bedrijven, Scholen en Huur",
+      "subcategory": "Ruimte Huren",
+      "question": "Wat zijn de voorwaarden voor huren?",
+      "answer": "Huurders moeten het reglement naleven (hygiëne, materiaal opruimen). Er kan een waarborg van €250 gevraagd worden. Er is cameratoezicht in de zaal."
+    },
+    {
+      "category": "Huisregels",
+      "subcategory": "Toegang",
+      "question": "Hoe krijg ik toegang tot de gym?",
+      "answer": "Enkel met actief abonnement en reservatie via de app."
+    },
+    {
+      "category": "Huisregels",
+      "subcategory": "Respect",
+      "question": "Wat zijn de regels over respect?",
+      "answer": "Respect voor trainers, leden en materiaal is verplicht."
+    },
+    {
+      "category": "Huisregels",
+      "subcategory": "Hygiëne",
+      "question": "Wat zijn de hygiëne regels?",
+      "answer": "Strikte regels over schoeisel (slippers buiten de mat, niet op blote voeten in toilet/kleedkamer)."
+    },
+    {
+      "category": "Huisregels",
+      "subcategory": "Veiligheid",
+      "question": "Wat zijn de veiligheidsregels?",
+      "answer": "Sparren enkel onder toezicht. Blessures melden aan de trainer."
+    },
+    {
+      "category": "Huisregels",
+      "subcategory": "Tijdigheid",
+      "question": "Wat als ik te laat kom?",
+      "answer": "Wees op tijd voor de les. Sanctie voor te laat komen is 50 burpees."
+    },
+    {
+      "category": "Huisregels",
+      "subcategory": "Sancties",
+      "question": "Wat gebeurt er bij overtredingen?",
+      "answer": "Overtreding van de regels kan leiden tot schorsing of boetes."
+    },
+    {
+      "category": "Algemene Voorwaarden",
+      "subcategory": "Opzeggen",
+      "question": "Hoe zeg ik een jaarcontract op?",
+      "answer": "Kan ten laatste 4 weken voor de einddatum opgezegd worden. Anders wordt het stilzwijgend verlengd en is het maandelijks opzegbaar (met 4 weken opzegtermijn)."
+    },
+    {
+      "category": "Algemene Voorwaarden",
+      "subcategory": "Opzeggen",
+      "question": "Hoe zeg ik een flexibel contract op?",
+      "answer": "Altijd opzegbaar met een opzegtermijn van 4 weken."
+    },
+    {
+      "category": "Algemene Voorwaarden",
+      "subcategory": "Opzeggen",
+      "question": "Hoe zeg ik op?",
+      "answer": "Via de website, app, e-mail of post."
+    },
+    {
+      "category": "Algemene Voorwaarden",
+      "subcategory": "Betaling",
+      "question": "Wat bij wanbetaling?",
+      "answer": "Bij wanbetaling wordt de toegang geblokkeerd en kunnen er extra kosten in rekening worden gebracht."
+    },
+    {
+      "category": "Algemene Voorwaarden",
+      "subcategory": "Opschorten",
+      "question": "Kan ik mijn lidmaatschap opschorten?",
+      "answer": "Ja, om medische redenen (met doktersattest) tegen een administratieve kost van €5."
+    },
+    {
+      "category": "Toon en Stijl",
+      "subcategory": "Algemene Richtlijnen",
+      "question": "Wat is de toon van communicatie?",
+      "answer": "Duidelijk, motiverend en behulpzaam. We willen dat (potentiële) leden zich welkom en aangemoedigd voelen."
+    },
+    {
+      "category": "Toon en Stijl",
+      "subcategory": "Aanspreekvorm",
+      "question": "Welke aanspreekvorm gebruiken?",
+      "answer": "Informeel: 'je' en 'jij'."
+    },
+    {
+      "category": "Toon en Stijl",
+      "subcategory": "Kernwaarden",
+      "question": "Wat zijn de kernwaarden in communicatie?",
+      "answer": "Duidelijk: Geef directe en begrijpelijke antwoorden. Vermijd jargon. Verwijs door naar de juiste link of persoon. Motiverend: Gebruik positieve taal. Behulpzaam: Denk mee, geef tips en volgende stappen."
+    },
+    {
+      "category": "AI Instructie",
+      "subcategory": "Rol",
+      "question": "Wat is de rol van de AI?",
+      "answer": "Digitale assistent van Reconnect Academy. Beantwoord vragen snel en correct. Duidelijk, motiverend, behulpzaam. Spreek aan met 'je/jij'. Antwoord in taal van de vraag (Nederlands, Frans of Engels)."
+    },
+    {
+      "category": "AI Instructie",
+      "subcategory": "Taken",
+      "question": "Wat zijn de taken van de AI?",
+      "answer": "1. Analyseer de vraag. 2. Gebruik kennis uit faq.md en tone_and_style.md. 3. Filter leads: Individuele sporters/bedrijven/scholen/huurders: Compleet antwoord. Sponsoring: Specifieke tekst. Kledingverkoop/ongewenst: Naar spam."
+    },
+    {
+      "category": "AI Instructie",
+      "subcategory": "Regels",
+      "question": "Wat zijn de belangrijke regels?",
+      "answer": "Baseer op kennisdocumenten. Verzin niets. Bij onbekend: Verwijs naar contact. Eindig met motiverende groet."
+    }
+  ]
+}
