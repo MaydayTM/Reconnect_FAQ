@@ -62,6 +62,12 @@
     },
     {
       "category": "Individuele Sporters",
+      "subcategory": "Lesrooster",
+      "question": "Kun je het actuele lesrooster delen?",
+      "answer": "Maandag:\n- 10:00 - 11:30 Grappling met Mehdi Michiels (@mehdimichiels_) - 18/40 plaatsen (avatar MM)\n- 18:30 - 20:00 Grappling met Mehdi Michiels (@mehdimichiels_) - 32/40 plaatsen (avatar MM)\n- 20:00 - 21:30 Muay Thai met Jason Spinoy (@jason_spinoy) - 27/40 plaatsen (avatar JS)\n\nDinsdag:\n- 18:30 - 20:00 Engels Boksen met Snoussi Mohamed (@coach_uzi80) - 15/40 plaatsen (avatar SM)\n- 20:00 - 21:30 MMA met Robby Kambundi (@nsility_) - 35/40 plaatsen (avatar RK)\n\nWoensdag:\n- 17:30 - 18:30 MMA 4 Kids met Osama Albashori (@iynama_nyah) - 12/20 plaatsen (avatar OA)\n- 18:30 - 20:00 Muay Thai met Jason Spinoy (@jason_spinoy) - 29/40 plaatsen (avatar JS)\n- 20:00 - 21:30 Engels Boksen met Snoussi Mohamed (@coach_uzi80) - 22/40 plaatsen (avatar SM)\n\nDonderdag:\n- 10:00 - 11:30 Grappling met Mehdi Michiels (@mehdimichiels_) - 14/40 plaatsen (avatar MM)\n- 19:30 - 21:00 Grappling met Mehdi Michiels (@mehdimichiels_) - 31/40 plaatsen (avatar MM)\n\nVrijdag:\n- 18:30 - 20:00 Engels Boksen met Snoussi Mohamed (@coach_uzi80) - 26/40 plaatsen (avatar SM)\n- 20:00 - 21:30 Worstelen met Ali Reza (@wrestling_rastegar82) - 19/40 plaatsen (avatar AR)\n\nZaterdag:\n- 09:00 - 10:00 MMA 4 Kids met Osama Albashori (@iynama_nyah) - 8/20 plaatsen (avatar OA)\n- 10:00 - 11:15 Grappling met Mehdi Michiels (@mehdimichiels_) - 23/40 plaatsen (avatar MM)\n- 10:00 - 11:15 Muay Thai met Jason Spinoy (@jason_spinoy) - 17/40 plaatsen (avatar JS)\n- 11:15 - 12:45 MMA met Robby Kambundi (@nsility_) - 33/40 plaatsen (avatar RK)"
+    },
+    {
+      "category": "Individuele Sporters",
       "subcategory": "Benodigde Uitrusting",
       "question": "Wat heb ik nodig voor een proefles?",
       "answer": "Een short en T-shirt is voldoende. Bokshandschoenen zijn mogelijk niet beschikbaar om te lenen."
@@ -283,10 +289,10 @@
       "answer": "Baseer op kennisdocumenten. Verzin niets. Bij onbekend: Verwijs naar contact. Eindig met motiverende groet."
     },
     {
-  "category": "Individuele Sporters",
-  "subcategory": "Praktische Info voor Bezoekers",
-  "question": "Wat zijn de openingsuren?",
-  "answer": "Van maandag tot vrijdag van 18 tot 21 uur en zaterdag van 9 tot 13 uur. Bekijk het lessenrooster op de website mmagym.be voor de lestijden."
-}
+      "category": "Individuele Sporters",
+      "subcategory": "Praktische Info voor Bezoekers",
+      "question": "Wat zijn de openingsuren?",
+      "answer": "Van maandag tot vrijdag van 18 tot 21 uur en zaterdag van 9 tot 13 uur. Bekijk het lessenrooster op de website mmagym.be voor de lestijden."
+    }
   ]
 }
